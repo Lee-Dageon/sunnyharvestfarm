@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ComputerGraphics\\sunnyharvestfarm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B13501B-5772-4AFE-8F9D-990982F9E23D}|sunnyharvestfarm\\sunnyharvestfarm.vcxproj|C:\\ComputerGraphics\\sunnyharvestfarm\\sunnyharvestfarm\\animation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B13501B-5772-4AFE-8F9D-990982F9E23D}|sunnyharvestfarm\\sunnyharvestfarm.vcxproj|solutionrelative:sunnyharvestfarm\\animation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B13501B-5772-4AFE-8F9D-990982F9E23D}|sunnyharvestfarm\\sunnyharvestfarm.vcxproj|C:\\ComputerGraphics\\sunnyharvestfarm\\sunnyharvestfarm\\animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B13501B-5772-4AFE-8F9D-990982F9E23D}|sunnyharvestfarm\\sunnyharvestfarm.vcxproj|solutionrelative:sunnyharvestfarm\\animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B13501B-5772-4AFE-8F9D-990982F9E23D}|sunnyharvestfarm\\sunnyharvestfarm.vcxproj|C:\\ComputerGraphics\\sunnyharvestfarm\\sunnyharvestfarm\\globals.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B13501B-5772-4AFE-8F9D-990982F9E23D}|sunnyharvestfarm\\sunnyharvestfarm.vcxproj|solutionrelative:sunnyharvestfarm\\globals.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B13501B-5772-4AFE-8F9D-990982F9E23D}|sunnyharvestfarm\\sunnyharvestfarm.vcxproj|C:\\ComputerGraphics\\sunnyharvestfarm\\sunnyharvestfarm\\character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B13501B-5772-4AFE-8F9D-990982F9E23D}|sunnyharvestfarm\\sunnyharvestfarm.vcxproj|solutionrelative:sunnyharvestfarm\\character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "character.h",
+              "DocumentMoniker": "C:\\ComputerGraphics\\sunnyharvestfarm\\sunnyharvestfarm\\character.h",
+              "RelativeDocumentMoniker": "sunnyharvestfarm\\character.h",
+              "ToolTip": "C:\\ComputerGraphics\\sunnyharvestfarm\\sunnyharvestfarm\\character.h",
+              "RelativeToolTip": "sunnyharvestfarm\\character.h",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-15T06:14:38.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "globals.h",
+              "DocumentMoniker": "C:\\ComputerGraphics\\sunnyharvestfarm\\sunnyharvestfarm\\globals.h",
+              "RelativeDocumentMoniker": "sunnyharvestfarm\\globals.h",
+              "ToolTip": "C:\\ComputerGraphics\\sunnyharvestfarm\\sunnyharvestfarm\\globals.h",
+              "RelativeToolTip": "sunnyharvestfarm\\globals.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-15T06:13:50.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "animation.h",
+              "DocumentMoniker": "C:\\ComputerGraphics\\sunnyharvestfarm\\sunnyharvestfarm\\animation.h",
+              "RelativeDocumentMoniker": "sunnyharvestfarm\\animation.h",
+              "ToolTip": "C:\\ComputerGraphics\\sunnyharvestfarm\\sunnyharvestfarm\\animation.h",
+              "RelativeToolTip": "sunnyharvestfarm\\animation.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-15T06:10:55.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "animation.cpp",
+              "DocumentMoniker": "C:\\ComputerGraphics\\sunnyharvestfarm\\sunnyharvestfarm\\animation.cpp",
+              "RelativeDocumentMoniker": "sunnyharvestfarm\\animation.cpp",
+              "ToolTip": "C:\\ComputerGraphics\\sunnyharvestfarm\\sunnyharvestfarm\\animation.cpp",
+              "RelativeToolTip": "sunnyharvestfarm\\animation.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-15T06:06:05.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1299,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
